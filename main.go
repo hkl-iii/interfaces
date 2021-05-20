@@ -7,8 +7,24 @@ type bot interface {
 	getGreeting() string
 }
 
+// design algorithm
+
 // Generics Code
 // Dependency Injection
+
+// frontend
+// web apps
+// HTML, CSS, Bootstrap
+// Angular, Vue.js, React.js(Redux) -> Components
+// programming language -> JavaScrip /TypeScript(OOP)
+// API REST -> client -> customers data JSON/XML/CSV
+// JSON (JavaScript object notations)
+
+// backend
+// -> Desing API RESTful (Desing)/ Code
+// -> Methods, Endpoints, Status codes(errors, oks),Representations
+// -> Protocol Communcatyions -> HTTP, gRPC, MQTT, AQMT, WebSockets.io
+// -> Database -> Desing/Model, Relational databases RDBMS(MySQL, Postgres, SQlSever), NoSQL(MongoDB), GraphQL
 
 type englishBot struct {
 	name string
